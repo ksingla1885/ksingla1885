@@ -31,7 +31,7 @@ I love building web apps that solve real problems and enjoy learning new technol
 
 - 🎓 **B.E. Computer Science Engineering**  
   *Chitkara University, Punjab*  
-  *2023 - 2027 (Expected)*
+  *2023 - 2027
 
 ---
 
@@ -48,7 +48,7 @@ I love building web apps that solve real problems and enjoy learning new technol
 ### 🎬 Beyond Code
 
 - 🛡️ **Cyber Security** – Curious about penetration testing and system security  
-- 🎥 **Movies & Series** – Avid fan of sci-fi, thrillers, and fictional universes  
+- 🎥 **Movies & Series** – Avid fan of sci-fi, thrillers, and fictional.
 - 📸 **Photography** – Love capturing nature and candid life moments  
 - 🎵 **Music** – Enjoy chill instrumentals and upbeat EDM
 
