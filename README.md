@@ -1,56 +1,57 @@
-## 👋 Hi there, I'm Ketan Kumar!
+## 👋 Hi there, I'm Ketan!
 
-> *"Your support means a lot! A little coffee/tea would go a long way. ☕❤️"*
+> *"Curiosity drives growth, and passion fuels progress."*
 
 I'm a passionate **Full-Stack Developer** and a pre-final-year student at **Chitkara University, Punjab** 🎓.  
-I love building web apps that solve real problems and enjoy learning new technologies that help me grow as a developer.
+I enjoy building web applications that solve real-world problems and constantly strive to learn and improve my skills.
 
 ---
 
 ### 🚀 What I Do
 
-- 💻 I work with the **MERN Stack** – MongoDB, Express, React, Node.js  
+- 💻 I work with the **MERN Stack** – MongoDB, Express.js, React.js, Node.js  
 - 🧠 Currently learning **MySQL** and **Oracle Database** from beginner to advanced  
-- 📦 Building scalable APIs and beautiful user interfaces  
 - 🔍 Exploring **Relational Database Management Systems (RDBMS)**  
-- 🛡️ Diving into **Cyber Security** and ethical hacking fundamentals
+- 📦 Building scalable APIs and clean, responsive user interfaces  
+- 🛡️ Gaining knowledge in **Cyber Security** and ethical hacking basics  
+- 🔧 Experienced with **Git** and **GitHub** for version control and collaboration
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind  
+- **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB  
 - **Databases (Learning):** MySQL, Oracle DB  
-- **Tools:** Git, GitHub, VS Code, Postman  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
 - **Others:** EJS, JWT, REST APIs
 
 ---
 
 ### 📚 Education
 
-- 🎓 **B.E. Computer Science Engineering**  
+- 🎓 **B.E. in Computer Science Engineering**  
   *Chitkara University, Punjab*  
-  *2023 - 2027
+  *2023 - 2027 (Expected)*
 
 ---
 
 ### 🧩 Soft Skills
 
 - 🧠 Problem-Solving & Logical Thinking  
-- 👥 Team Management & Collaboration  
-- 🗂️ Project Management & Task Prioritization  
-- 💡 Leadership & Decision Making  
+- 👥 Cross-Functional Team Collaboration  
+- 🗂️ Project & Time Management  
+- 💡 Leadership & Strategic Thinking  
 - 📢 Effective Communication
 
 ---
 
 ### 🎬 Beyond Code
 
-- 🛡️ **Cyber Security** – Curious about penetration testing and system security  
-- 🎥 **Movies & Series** – Avid fan of sci-fi, thrillers, and fictional.
-- 📸 **Photography** – Love capturing nature and candid life moments  
-- 🎵 **Music** – Enjoy chill instrumentals and upbeat EDM
+- 🛡️ Exploring **Cyber Security** & Penetration Testing  
+- 🎥 Love watching sci-fi, thrillers, mysterious and fictional series  
+- 📸 Passionate about photography and capturing moments  
+- 🎵 Enjoy chill instrumentals, Old Hindi and Classic and lo-fi music
 
 ---
 
@@ -68,4 +69,4 @@ I love building web apps that solve real problems and enjoy learning new technol
 
 ---
 
-> Open to internships and collaborations! Let's build something awesome together 🚀
+> 🚀 Open to internships, projects, and collaborations. Let's build something amazing together!
