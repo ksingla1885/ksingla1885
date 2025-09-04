@@ -9,12 +9,12 @@ I enjoy building web applications that solve real-world problems and constantly 
 
 ### 🚀 What I Do
 
-- 💻 I work with the **MERN Stack** – MongoDB, Express.js, React.js, Node.js  
-- 🧠 Currently learning **MySQL** and **Oracle Database** from beginner to advanced  
-- 🔍 Exploring **Relational Database Management Systems (RDBMS)**  
-- 📦 Building scalable APIs and clean, responsive user interfaces  
-- 🛡️ Gaining knowledge in **Cyber Security** and ethical hacking basics  
-- 🔧 Experienced with **Git** and **GitHub** for version control and collaboration
+- I work with the **MERN Stack** – MongoDB, Express.js, React.js, Node.js  
+- Currently learning **MySQL** and **Oracle Database** from beginner to advanced  
+- Exploring **Relational Database Management Systems (RDBMS)**  
+- Building scalable APIs and clean, responsive user interfaces  
+- Gaining knowledge in **Cyber Security** and ethical hacking basics  
+- Experienced with **Git** and **GitHub** for version control and collaboration
 
 ---
 
@@ -48,10 +48,10 @@ I enjoy building web applications that solve real-world problems and constantly 
 
 ### 🎬 Beyond Code
 
-- 🛡️ Exploring **Cyber Security** & Penetration Testing  
-- 🎥 Love watching sci-fi, thrillers, mysterious and fictional series  
-- 📸 Passionate about photography and capturing moments  
-- 🎵 Enjoy chill instrumentals, Old Hindi and Classic and lo-fi music
+- Exploring **Cyber Security** & Penetration Testing  
+- Love watching sci-fi, thrillers, mysterious and fictional series  
+- Passionate about photography and capturing moments  
+- Enjoy chill instrumentals, Old Hindi and Classic and lo-fi music
 
 ---
 
@@ -64,8 +64,8 @@ I enjoy building web applications that solve real-world problems and constantly 
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ketan-kumar-521249279/)  
-📧 Email: **ketansingla7988@gmail.com**
-📧 Email: **ketansingla3246@gmail.com**
+- 📧 Email: **ketansingla7988@gmail.com**
+- 📧 Email: **ketansingla3246@gmail.com**
 
 ---
 
