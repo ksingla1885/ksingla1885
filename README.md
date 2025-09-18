@@ -53,11 +53,6 @@ I enjoy building web applications that solve real-world problems and constantly 
 - Passionate about photography and capturing moments  
 - Enjoy chill instrumentals, Old Hindi and Classic and lo-fi music
 
----
-
-### 📈 GitHub Stats
-
-![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksingla1885&show_icons=true&theme=radical)
 
 ---
 
