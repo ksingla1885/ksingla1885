@@ -32,7 +32,7 @@ I enjoy building web applications that solve real-world problems and constantly 
 
 - 🎓 **B.E. in Computer Science Engineering**  
   *Chitkara University, Punjab*  
-  *2023 - 2027 (Expected)*
+  *2023 - 2027*
 
 ---
 
