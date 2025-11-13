@@ -13,7 +13,6 @@ I enjoy building web applications that solve real-world problems and constantly 
 - Currently learning **MySQL** and **Oracle Database** from beginner to advanced  
 - Exploring **Relational Database Management Systems (RDBMS)**  
 - Building scalable APIs and clean, responsive user interfaces  
-- Gaining knowledge in **Cyber Security** and ethical hacking basics  
 - Experienced with **Git** and **GitHub** for version control and collaboration
 
 ---
@@ -22,7 +21,7 @@ I enjoy building web applications that solve real-world problems and constantly 
 
 - **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB  
-- **Databases (Learning):** MySQL, Oracle DB  
+- **Databases:** MySQL, Oracle DB, PostgreSQL, Neo4j  
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman  
 - **Others:** EJS, JWT, REST APIs
 
@@ -48,7 +47,7 @@ I enjoy building web applications that solve real-world problems and constantly 
 
 ### 🎬 Beyond Code
 
-- Exploring **Cyber Security** & Penetration Testing  
+- Exploring **Prompt Engineering**
 - Love watching sci-fi, thrillers, mysterious and fictional series  
 - Passionate about photography and capturing moments  
 - Enjoy chill instrumentals, Old Hindi and Classic and lo-fi music
