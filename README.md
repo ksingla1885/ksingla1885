@@ -9,7 +9,7 @@ I enjoy building web applications that solve real-world problems and constantly 
 
 ### 🚀 What I Do
 
-- I work with the **MERN Stack** – MongoDB, Express.js, React.js, Node.js  
+- I work with the **MERN Stack** – MongoDB, Express.js, React.js, Node.js, Next.js  
 - Currently learning **MySQL** and **Oracle Database** from beginner to advanced  
 - Exploring **Relational Database Management Systems (RDBMS)**  
 - Building scalable APIs and clean, responsive user interfaces  
