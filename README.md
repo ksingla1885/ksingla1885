@@ -1,83 +1,70 @@
-👋 Hi, I'm Ketan Kumar
+## 👋 Hi there, I'm Ketan!
 
-Building scalable systems. Solving real-world problems. Constantly evolving.
+> *"Curiosity drives growth, and passion fuels progress."*
 
-I’m a Full-Stack Developer and a pre-final-year Computer Science Engineering student at Chitkara University, Punjab 🎓.
-I specialize in designing and building production-ready web applications with a strong focus on scalability, security, and user experience.
+I'm a passionate **Full-Stack Developer** and a pre-final-year student at **Chitkara University, Punjab** 🎓.  
+I enjoy building web applications that solve real-world problems and constantly strive to learn and improve my skills.
 
-I don’t just build projects—I build systems that solve real problems, integrating authentication, payments, databases, and modern architectures.
+---
 
-🚀 What I Bring to the Table
-🧠 Strong foundation in Data Structures, APIs, and System Design fundamentals
-⚙️ Experience building scalable full-stack applications (MERN & Next.js)
-🔐 Hands-on with authentication systems (JWT, RBAC, session handling)
-💳 Implemented real-world payment integrations (Razorpay)
-🗄️ Skilled in both NoSQL and SQL databases (MongoDB, PostgreSQL, MySQL)
-🧩 Experience working with modular architectures & clean code practices
-🚀 Comfortable taking a project from idea → development → deployment
-🛠️ Tech Stack
+### 🚀 What I Do
 
-💻 Frontend
-React.js • Next.js • HTML5 • CSS3 • JavaScript • Tailwind CSS
+- I work with the **MERN Stack** – MongoDB, Express.js, React.js, Node.js, Next.js  
+- Currently learning **MySQL** and **Oracle Database** from beginner to advanced  
+- Exploring **Relational Database Management Systems (RDBMS)**  
+- Building scalable APIs and clean, responsive user interfaces  
+- Experienced with **Git** and **GitHub** for version control and collaboration
 
-⚙️ Backend
-Node.js • Express.js • REST APIs • Authentication Systems
+---
 
-🗄️ Databases
-MongoDB • PostgreSQL • MySQL • Oracle DB • Neo4j
+### 🛠️ Tech Stack
 
-🔧 Tools & Platforms
-Git • GitHub • Postman • VS Code • Vercel • Supabase
+- **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Databases:** MySQL, Oracle DB, PostgreSQL, Neo4j  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
+- **Others:** EJS, JWT, REST APIs
 
-🧠 Additional
-JWT • Prisma ORM • NextAuth.js • Razorpay • AWS S3 • AI API Integrations
+---
 
-🚀 Featured Projects
-🏥 OrvantaHealth – Hospital Management System
+### 📚 Education
 
-A production-level MERN application with multi-role architecture, secure medical data handling, payments, and AI chatbot integration.
-→ Demonstrates: System Design, Security, Real-world Integrations
+- 🎓 **B.E. in Computer Science Engineering**  
+  *Chitkara University, Punjab*  
+  *2023 - 2027*
 
-🧪 Mindora – Online Test Platform
+---
 
-A full-stack platform for secure test administration, real-time test-taking, and payment-based access.
-→ Demonstrates: Scalable APIs, Database Design, Payment Systems
+### 🧩 Soft Skills
 
-📚 CBSE Educational Platform
+- 🧠 Problem-Solving & Logical Thinking  
+- 👥 Cross-Functional Team Collaboration  
+- 🗂️ Project & Time Management  
+- 💡 Leadership & Strategic Thinking  
+- 📢 Effective Communication
 
-A large-scale platform with dynamic dashboards (11 variants), role-based access, and subscription-based content delivery.
-→ Demonstrates: Architecture Design, Personalization Logic, Scalability
+---
 
-🧠 Core Strengths
-Problem-Solving & Analytical Thinking
-Scalable System Design Mindset
-Clean Code & Maintainability
-Team Collaboration & Ownership
-Fast Learning & Adaptability
-🎯 What I’m Looking For
+### 🎬 Beyond Code
 
-I’m actively seeking internships and collaborative opportunities where I can:
+- Exploring **Prompt Engineering**
+- Love watching sci-fi, thrillers, mysterious and fictional series  
+- Passionate about photography and capturing moments  
+- Enjoy chill instrumentals, Old Hindi and Classic and lo-fi music
 
-Contribute to real-world, production-grade systems
-Work with experienced developers and learn industry best practices
-Build impactful solutions while continuously improving my craft
-🎬 Beyond Code
-Exploring AI & Prompt Engineering
-Passionate about technology-driven innovation
-Enjoy sci-fi, thrillers, and problem-solving content
-Into photography and creative expression
-📫 Let’s Connect
-💼 LinkedIn: https://www.linkedin.com/in/ketan-kumar-521249279/
-📧 Email: ketansingla7988@gmail.com
-📧 Email: ketansingla3246@gmail.com
-🚀 Final Note
 
-I’m not just looking for opportunities—I’m looking to build, learn, and contribute to something meaningful.
+---
 
-If you're working on something exciting or need a developer who can own features end-to-end, let’s connect.
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ketan-kumar-521249279/)  
+- 📧 Email: **ketansingla7988@gmail.com**
+- 📧 Email: **ketansingla3246@gmail.com**
 
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksingla1885&theme=tokyonight)
 
 > 🚀 Open to internships, projects, and collaborations. Let's build something amazing together!
+
+enhance it.
