@@ -66,5 +66,3 @@ I enjoy building web applications that solve real-world problems and constantly 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksingla1885&theme=tokyonight)
 
 > 🚀 Open to internships, projects, and collaborations. Let's build something amazing together!
-
-enhance it.
