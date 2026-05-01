@@ -176,24 +176,74 @@ status:     Open to internships, freelance & collaborations ✅
 
 ## `$ cat /proc/focus`
 
-```
-[■■■■■■■■■■■■■■■■░░░░]  85%  Production Full-Stack Apps
-[■■■■■■■■■■■■■■■░░░░░]  75%  Advanced Database Systems (SQL + NoSQL)
-[■■■■■■■■■■░░░░░░░░░░]  55%  System Design Fundamentals
-[■■■■■■■■░░░░░░░░░░░░]  40%  AI Integrations & Prompt Engineering
-```
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="30px">🚀</td>
+    <td><b>Production Full-Stack Apps</b></td>
+    <td width="240px"><img src="https://geps.dev/progress/85?dangerColor=3fb950&warningColor=3fb950&successColor=3fb950" width="240" /></td>
+    <td width="80px" align="right"><code>85%</code></td>
+    <td width="100px"><img src="https://img.shields.io/badge/Advanced-3fb950?style=flat-square&labelColor=1a3e26" /></td>
+  </tr>
+  <tr>
+    <td>🗄️</td>
+    <td><b>Database Systems (SQL + NoSQL)</b></td>
+    <td><img src="https://geps.dev/progress/75?dangerColor=3fb950&warningColor=3fb950&successColor=3fb950" width="240" /></td>
+    <td align="right"><code>75%</code></td>
+    <td><img src="https://img.shields.io/badge/Proficient-3fb950?style=flat-square&labelColor=1a3e26" /></td>
+  </tr>
+  <tr>
+    <td>🏗️</td>
+    <td><b>System Design Fundamentals</b></td>
+    <td><img src="https://geps.dev/progress/55?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff" width="240" /></td>
+    <td align="right"><code>55%</code></td>
+    <td><img src="https://img.shields.io/badge/Intermediate-58a6ff?style=flat-square&labelColor=0c2d4a" /></td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><b>AI Integrations &amp; Prompt Engineering</b></td>
+    <td><img src="https://geps.dev/progress/40?dangerColor=bc8cff&warningColor=bc8cff&successColor=bc8cff" width="240" /></td>
+    <td align="right"><code>40%</code></td>
+    <td><img src="https://img.shields.io/badge/Learning-bc8cff?style=flat-square&labelColor=2a1a4a" /></td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
 ## `$ cat soft_skills.txt`
 
-```
-✔  Problem Solving & Logical Thinking
-✔  Cross-Functional Team Collaboration
-✔  Time & Project Management
-✔  Leadership & Strategic Thinking
-✔  Effective Communication
-```
+<br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180px">
+      <img src="https://img.shields.io/badge/💡_Problem_Solving-Logical_%26_Analytical-3fb950?style=for-the-badge&labelColor=161b22" /><br/>
+    </td>
+    <td align="center" width="180px">
+      <img src="https://img.shields.io/badge/🤝_Collaboration-Cross--Functional-58a6ff?style=for-the-badge&labelColor=161b22" /><br/>
+    </td>
+    <td align="center" width="180px">
+      <img src="https://img.shields.io/badge/⏱️_Time_Mgmt-Planning_%26_Delivery-e3b341?style=for-the-badge&labelColor=161b22" /><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎯_Leadership-Strategic_Thinking-bc8cff?style=for-the-badge&labelColor=161b22" /><br/>
+    </td>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/💬_Communication-Clear_%26_Impactful-3fb950?style=for-the-badge&labelColor=161b22" /><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
