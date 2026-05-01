@@ -156,6 +156,24 @@ status:     Open to internships, freelance & collaborations ✅
 
 ---
 
+## `$ watch -n 86400 contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksingla1885/ksingla1885/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksingla1885/ksingla1885/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ksingla1885/ksingla1885/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ksingla1885&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&area_color=1a3e26&hide_border=true&radius=8" width="100%" alt="Ketan's activity graph" />
+
+</div>
+
+---
+
 ## `$ cat /proc/focus`
 
 ```
@@ -183,15 +201,18 @@ status:     Open to internships, freelance & collaborations ✅
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [ketan-kumar-521249279](https://www.linkedin.com/in/ketan-kumar-521249279/) |
-| 📧 Email | [ketansingla7988@gmail.com](mailto:ketansingla7988@gmail.com) |
-| 📧 Alternate | [ketansingla3246@gmail.com](mailto:ketansingla3246@gmail.com) |
-| 🐙 GitHub | [@ksingla1885](https://github.com/ksingla1885) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ketan--kumar--521249279-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-kumar-521249279/)
+[![GitHub](https://img.shields.io/badge/GitHub-ksingla1885-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksingla1885)
 
-<br>
+[![Email](https://img.shields.io/badge/Email_(Primary)-ketansingla7988@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketansingla7988@gmail.com)
+[![Email](https://img.shields.io/badge/Email_(Alternate)-ketansingla3246@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketansingla3246@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=3fb950&height=80&section=footer&fontSize=16&fontColor=fff)
+<br/>
+
+> 💬 **Got an interesting project or internship opportunity? Let's build something great together.**
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=3fb950&height=100&section=footer&text=Open%20to%20Opportunities&fontSize=18&fontColor=ffffff&animation=fadeIn)
 
 </div>
