@@ -115,11 +115,29 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksingla1885&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksingla1885&theme=tokyonight" />
-</p>
+<div align="center">
 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ksingla1885&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ksingla1885&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksingla1885&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksingla1885&theme=tokyo-night&hide_border=true" />
+
+</div>
 ---
 
 ## 🎯 Current Focus
