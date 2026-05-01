@@ -218,29 +218,19 @@ status:     Open to internships, freelance & collaborations ✅
 <br/>
 
 <div align="center">
+  <img src="./soft-skills.svg" alt="Soft Skills" width="100%" />
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="180px">
-      <img src="https://img.shields.io/badge/💡_Problem_Solving-Logical_%26_Analytical-3fb950?style=for-the-badge&labelColor=161b22" /><br/>
-    </td>
-    <td align="center" width="180px">
-      <img src="https://img.shields.io/badge/🤝_Collaboration-Cross--Functional-58a6ff?style=for-the-badge&labelColor=161b22" /><br/>
-    </td>
-    <td align="center" width="180px">
-      <img src="https://img.shields.io/badge/⏱️_Time_Mgmt-Planning_%26_Delivery-e3b341?style=for-the-badge&labelColor=161b22" /><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎯_Leadership-Strategic_Thinking-bc8cff?style=for-the-badge&labelColor=161b22" /><br/>
-    </td>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/💬_Communication-Clear_%26_Impactful-3fb950?style=for-the-badge&labelColor=161b22" /><br/>
-    </td>
-  </tr>
-</table>
+<br/>
 
+---
+
+## `$ cat beyond_code.log`
+
+<br/>
+
+<div align="center">
+  <img src="./beyond-code.svg" alt="Beyond Code" width="100%" />
 </div>
 
 <br/>
