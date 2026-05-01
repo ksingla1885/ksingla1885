@@ -23,27 +23,28 @@
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-cyan?style=flat&logo=tailwindcss)
+### 🧠 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-cyan?logo=tailwindcss)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle)
-![Neo4j](https://img.shields.io/badge/Neo4j-black?style=flat&logo=neo4j)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle)
+![Neo4j](https://img.shields.io/badge/Neo4j-black?logo=neo4j)
 
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
 ---
 
 ## 🌟 Featured Projects
