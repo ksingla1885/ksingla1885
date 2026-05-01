@@ -219,62 +219,13 @@ status:     Open to internships, freelance & collaborations ✅
 
 <div align="center">
 
-<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI,sans-serif">
-  <!-- Row 1 -->
-  <rect x="8" y="8" width="224" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="20" y="22" width="36" height="36" rx="8" fill="#1a3e26"/>
-  <text x="38" y="46" text-anchor="middle" font-size="17">💡</text>
-  <text x="66" y="37" fill="#e6edf3" font-size="13" font-weight="600">Problem Solving</text>
-  <text x="66" y="53" fill="#8b949e" font-size="11">Logical &amp; Analytical Thinking</text>
-  <circle cx="218" cy="40" r="9" fill="#1a3e26" stroke="#3fb950" stroke-width="1"/>
-  <polyline points="213,40 217,44 223,36" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+![](https://img.shields.io/badge/💡_Problem_Solving-Logical_%26_Analytical_Thinking-1a3e26?style=for-the-badge)
+![](https://img.shields.io/badge/🤝_Team_Collaboration-Cross--Functional_Teamwork-0c2d4a?style=for-the-badge)
+![](https://img.shields.io/badge/⏱️_Time_Management-Planning_%26_Delivery-3a2800?style=for-the-badge)
 
-  <rect x="244" y="8" width="224" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="256" y="22" width="36" height="36" rx="8" fill="#0c2d4a"/>
-  <text x="274" y="46" text-anchor="middle" font-size="17">🤝</text>
-  <text x="302" y="37" fill="#e6edf3" font-size="13" font-weight="600">Team Collaboration</text>
-  <text x="302" y="53" fill="#8b949e" font-size="11">Cross-Functional Teamwork</text>
-  <circle cx="454" cy="40" r="9" fill="#1a3e26" stroke="#3fb950" stroke-width="1"/>
-  <polyline points="449,40 453,44 459,36" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <rect x="480" y="8" width="272" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="492" y="22" width="36" height="36" rx="8" fill="#3a2800"/>
-  <text x="510" y="46" text-anchor="middle" font-size="17">⏱️</text>
-  <text x="538" y="37" fill="#e6edf3" font-size="13" font-weight="600">Time Management</text>
-  <text x="538" y="53" fill="#8b949e" font-size="11">Project Planning &amp; Delivery</text>
-  <circle cx="738" cy="40" r="9" fill="#1a3e26" stroke="#3fb950" stroke-width="1"/>
-  <polyline points="733,40 737,44 743,36" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <!-- Row 2 -->
-  <rect x="8" y="88" width="224" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="20" y="102" width="36" height="36" rx="8" fill="#2a1a4a"/>
-  <text x="38" y="126" text-anchor="middle" font-size="17">🎯</text>
-  <text x="66" y="117" fill="#e6edf3" font-size="13" font-weight="600">Leadership</text>
-  <text x="66" y="133" fill="#8b949e" font-size="11">Strategic &amp; Decisive Thinking</text>
-  <circle cx="218" cy="120" r="9" fill="#1a3e26" stroke="#3fb950" stroke-width="1"/>
-  <polyline points="213,120 217,124 223,116" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <rect x="244" y="88" width="224" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="256" y="102" width="36" height="36" rx="8" fill="#1a3e26"/>
-  <text x="274" y="126" text-anchor="middle" font-size="17">💬</text>
-  <text x="302" y="117" fill="#e6edf3" font-size="13" font-weight="600">Communication</text>
-  <text x="302" y="133" fill="#8b949e" font-size="11">Clear, Concise &amp; Impactful</text>
-  <circle cx="454" cy="120" r="9" fill="#1a3e26" stroke="#3fb950" stroke-width="1"/>
-  <polyline points="449,120 453,124 459,116" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <rect x="480" y="88" width="272" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="492" y="102" width="36" height="36" rx="8" fill="#0a2e2a"/>
-  <text x="510" y="126" text-anchor="middle" font-size="17">🧠</text>
-  <text x="538" y="117" fill="#e6edf3" font-size="13" font-weight="600">Analytical Thinking</text>
-  <text x="538" y="133" fill="#8b949e" font-size="11">Systems &amp; Product Mindset</text>
-  <circle cx="738" cy="120" r="9" fill="#1a3e26" stroke="#3fb950" stroke-width="1"/>
-  <polyline points="733,120 737,124 743,116" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <!-- Footer bar -->
-  <rect x="8" y="168" width="744" height="44" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="380" y="186" text-anchor="middle" fill="#3fb950" font-size="11" font-family="'Courier New',monospace">// always learning · always building · always improving</text>
-  <text x="380" y="202" text-anchor="middle" fill="#8b949e" font-size="10" font-family="'Courier New',monospace">ksingla1885 · Chitkara University · Punjab, India · 2023–2027</text>
-</svg>
+![](https://img.shields.io/badge/🎯_Leadership-Strategic_%26_Decisive_Thinking-2a1a4a?style=for-the-badge)
+![](https://img.shields.io/badge/💬_Communication-Clear%2C_Concise_%26_Impactful-1a3e26?style=for-the-badge)
+![](https://img.shields.io/badge/🧠_Analytical_Thinking-Systems_%26_Product_Mindset-0a2e2a?style=for-the-badge)
 
 </div>
 
@@ -288,49 +239,12 @@ status:     Open to internships, freelance & collaborations ✅
 
 <div align="center">
 
-<svg width="760" height="156" viewBox="0 0 760 156" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI,sans-serif">
-  <!-- Row 1 -->
-  <rect x="8" y="8" width="356" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="20" y="22" width="36" height="36" rx="8" fill="#0c2d4a"/>
-  <text x="38" y="46" text-anchor="middle" font-size="17">🧠</text>
-  <text x="66" y="37" fill="#e6edf3" font-size="13" font-weight="600">Curious About Scale</text>
-  <text x="66" y="53" fill="#8b949e" font-size="11">Breaking down real-world apps &amp; architectures</text>
-  <circle cx="348" cy="40" r="9" fill="#0c2d4a" stroke="#58a6ff" stroke-width="1"/>
-  <polyline points="343,40 347,44 353,36" fill="none" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+![](https://img.shields.io/badge/🧠_Curious_About_Scale-Breaking_down_real--world_apps_%26_arch-0c2d4a?style=for-the-badge)
+![](https://img.shields.io/badge/🛠️_AI_Tools_%26_Automation-Prompt_Eng._%26_Workflow_Automation-2a1a4a?style=for-the-badge)
 
-  <rect x="396" y="8" width="356" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="408" y="22" width="36" height="36" rx="8" fill="#2a1a4a"/>
-  <text x="426" y="46" text-anchor="middle" font-size="17">🛠️</text>
-  <text x="454" y="37" fill="#e6edf3" font-size="13" font-weight="600">AI Tools &amp; Automation</text>
-  <text x="454" y="53" fill="#8b949e" font-size="11">Prompt engineering &amp; workflow automation</text>
-  <circle cx="736" cy="40" r="9" fill="#2a1a4a" stroke="#bc8cff" stroke-width="1"/>
-  <polyline points="731,40 735,44 741,36" fill="none" stroke="#bc8cff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <!-- Row 2 -->
-  <rect x="8" y="84" width="224" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="20" y="98" width="36" height="36" rx="8" fill="#3a2800"/>
-  <text x="38" y="122" text-anchor="middle" font-size="17">📊</text>
-  <text x="66" y="113" fill="#e6edf3" font-size="13" font-weight="600">Product Thinking</text>
-  <text x="66" y="129" fill="#8b949e" font-size="11">UX &amp; user-first mindset</text>
-  <circle cx="218" cy="116" r="9" fill="#3a2800" stroke="#e3b341" stroke-width="1"/>
-  <polyline points="213,116 217,120 223,112" fill="none" stroke="#e3b341" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <rect x="244" y="84" width="224" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="256" y="98" width="36" height="36" rx="8" fill="#1a3e26"/>
-  <text x="274" y="122" text-anchor="middle" font-size="17">🎯</text>
-  <text x="302" y="113" fill="#e6edf3" font-size="13" font-weight="600">Building in Public</text>
-  <text x="302" y="129" fill="#8b949e" font-size="11">Hands-on projects &amp; learning</text>
-  <circle cx="454" cy="116" r="9" fill="#1a3e26" stroke="#3fb950" stroke-width="1"/>
-  <polyline points="449,116 453,120 459,112" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <rect x="480" y="84" width="272" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="492" y="98" width="36" height="36" rx="8" fill="#0a2e2a"/>
-  <text x="510" y="122" text-anchor="middle" font-size="17">🌐</text>
-  <text x="538" y="113" fill="#e6edf3" font-size="13" font-weight="600">Tech Trends &amp; Startups</text>
-  <text x="538" y="129" fill="#8b949e" font-size="11">Innovative products shaping the future</text>
-  <circle cx="738" cy="116" r="9" fill="#0a2e2a" stroke="#3fb950" stroke-width="1"/>
-  <polyline points="733,116 737,120 743,112" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+![](https://img.shields.io/badge/📊_Product_Thinking-UX_%26_User--First_Mindset-3a2800?style=for-the-badge)
+![](https://img.shields.io/badge/🎯_Building_in_Public-Hands--on_Projects_%26_Learning-1a3e26?style=for-the-badge)
+![](https://img.shields.io/badge/🌐_Tech_Trends_%26_Startups-Innovative_Products_Shaping_the_Future-0a2e2a?style=for-the-badge)
 
 </div>
 
