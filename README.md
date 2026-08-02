@@ -27,7 +27,7 @@
 name:       Ketan Kumar
 role:       Full-Stack Developer
 university: Chitkara University, Punjab (2023–2027)
-degree:     B.E. Computer Science Engineering — Pre-Final Year
+degree:     B.E. Computer Science Engineering — Final Year
 focus:
   - MERN Stack & Next.js applications
   - Scalable REST APIs & clean system architecture
