@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `> Full-Stack Developer` · `MERN & Next.js` · `Building at Scale`
+### `> Full-Stack Developer` · `MERN & Next.js` · `Building at Scale` · `Siemens Teamcenter PLM Specialist`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Turning+ideas+into+scalable+web+applications;MERN+Stack+%7C+Next.js+%7C+System+Design;Open+to+Internships+%26+Collaborations;Currently+exploring+AI+integrations+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Turning+ideas+into+scalable+web+applications;MERN+Stack+%7C+Next.js+%7C+System+Design;Open+to+Internships+%26+Collaborations;Currently+exploring+Siemens+Teamcenter+PLM+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-kumar-521249279/)
 [![Email](https://img.shields.io/badge/Email-ketansingla7988@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketansingla7988@gmail.com)
@@ -33,12 +33,19 @@ focus:
   - Scalable REST APIs & clean system architecture
   - Database systems (SQL + NoSQL)
   - AI integrations & prompt engineering
+  - Siemens Teamcenter PLM specialization (Teamcenter, BMIDE, Active Workspace)
 status:     Open to internships, freelance & collaborations ✅
 ```
 
 ---
 
 ## `$ ls -la skills/`
+
+### 🏭 PLM & Enterprise Software
+![Teamcenter](https://img.shields.io/badge/Siemens_Teamcenter-009999?style=flat-square&logo=siemens&logoColor=white)
+![BMIDE](https://img.shields.io/badge/BMIDE-Data_Model_Extension-009999?style=flat-square)
+![Active Workspace](https://img.shields.io/badge/Active_Workspace-UI_Client-009999?style=flat-square)
+![PLM](https://img.shields.io/badge/PLM-Product_Lifecycle_Mgmt-009999?style=flat-square)
 
 ### 🧠 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -72,6 +79,32 @@ status:     Open to internships, freelance & collaborations ✅
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+
+---
+
+## `$ cat current_specialization.md`
+
+<br/>
+
+<div align="center">
+
+### 🏭 Siemens Teamcenter — PLM Specialization
+
+![Teamcenter](https://img.shields.io/badge/Teamcenter-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![BMIDE](https://img.shields.io/badge/BMIDE-009999?style=for-the-badge)
+![Active Workspace](https://img.shields.io/badge/Active_Workspace-009999?style=for-the-badge)
+
+</div>
+
+> 📘 Currently pursuing a focused specialization in **Siemens Teamcenter PLM**, covering the core stack used across enterprise product lifecycle management:
+
+| Module | What it covers |
+|---|---|
+| 🧩 **Teamcenter** | Core PLM platform — data management, workflows, digital thread across the product lifecycle |
+| 🛠️ **BMIDE** (Business Modeler IDE) | Extending and customizing the Teamcenter data model — business objects, properties, LOVs, deployment |
+| 💻 **Active Workspace** | Modern web-based client for Teamcenter — UI configuration, styling, and end-user experience |
+
+**Progress:** `55%` — moving from foundational concepts into hands-on data model customization and client-side configuration.
 
 ---
 
@@ -245,6 +278,7 @@ status:     Open to internships, freelance & collaborations ✅
 ![](https://img.shields.io/badge/📊_Product_Thinking-UX_%26_User--First_Mindset-3a2800?style=for-the-badge)
 ![](https://img.shields.io/badge/🎯_Building_in_Public-Hands--on_Projects_%26_Learning-1a3e26?style=for-the-badge)
 ![](https://img.shields.io/badge/🌐_Tech_Trends_%26_Startups-Innovative_Products_Shaping_the_Future-0a2e2a?style=for-the-badge)
+![](https://img.shields.io/badge/🏭_PLM_Specialization-Teamcenter_%7C_BMIDE_%7C_Active_Workspace-003333?style=for-the-badge)
 
 </div>
 
