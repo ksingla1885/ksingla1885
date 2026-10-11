@@ -25,15 +25,15 @@
 
 ```yaml
 name:       Ketan Kumar
-role:       Full-Stack Developer
+role:       PLM Engineer
 university: Chitkara University, Punjab (2023–2027)
 degree:     B.E. Computer Science Engineering — Final Year
 focus:
+  - Siemens Teamcenter PLM specialization (Teamcenter, BMIDE, Active Workspace)
   - MERN Stack & Next.js applications
   - Scalable REST APIs & clean system architecture
   - Database systems (SQL + NoSQL)
   - AI integrations & prompt engineering
-  - Siemens Teamcenter PLM specialization (Teamcenter, BMIDE, Active Workspace)
 status:     Open to internships, freelance & collaborations ✅
 ```
 
@@ -87,12 +87,15 @@ status:     Open to internships, freelance & collaborations ✅
 <br/>
 
 <div align="center">
+
 ## 🏭 Siemens Teamcenter — PLM Specialization
 
 ![Teamcenter](https://img.shields.io/badge/Teamcenter-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![BMIDE](https://img.shields.io/badge/BMIDE-009999?style=for-the-badge)
 ![Active Workspace](https://img.shields.io/badge/Active_Workspace-009999?style=for-the-badge)
 ![ITK](https://img.shields.io/badge/ITK_&_SOA-009999?style=for-the-badge)
+
+</div>
 
 > 📘 Currently pursuing a focused specialization in **Siemens Teamcenter PLM**, covering the core stack used across enterprise product lifecycle management, from data modeling to deployment and customization.
 
