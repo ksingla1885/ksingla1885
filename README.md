@@ -87,24 +87,24 @@ status:     Open to internships, freelance & collaborations ✅
 <br/>
 
 <div align="center">
-
-### 🏭 Siemens Teamcenter — PLM Specialization
+## 🏭 Siemens Teamcenter — PLM Specialization
 
 ![Teamcenter](https://img.shields.io/badge/Teamcenter-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![BMIDE](https://img.shields.io/badge/BMIDE-009999?style=for-the-badge)
 ![Active Workspace](https://img.shields.io/badge/Active_Workspace-009999?style=for-the-badge)
+![ITK](https://img.shields.io/badge/ITK_&_SOA-009999?style=for-the-badge)
 
-</div>
-
-> 📘 Currently pursuing a focused specialization in **Siemens Teamcenter PLM**, covering the core stack used across enterprise product lifecycle management:
+> 📘 Currently pursuing a focused specialization in **Siemens Teamcenter PLM**, covering the core stack used across enterprise product lifecycle management, from data modeling to deployment and customization.
 
 | Module | What it covers |
 |---|---|
-| 🧩 **Teamcenter** | Core PLM platform — data management, workflows, digital thread across the product lifecycle |
-| 🛠️ **BMIDE** (Business Modeler IDE) | Extending and customizing the Teamcenter data model — business objects, properties, LOVs, deployment |
-| 💻 **Active Workspace** | Modern web-based client for Teamcenter — UI configuration, styling, and end-user experience |
+| 🧩 **Teamcenter** | Teamcenter Foundation, Workflow Designer & Workflow Management, EPM Handlers (Action & Rule), LOVs, Access Manager & Organization (Users, Groups, Roles, ACLs), Naming Rules, Queries & Reports, Change Management (ECR/ECN) |
+| 🛠️ **BMIDE** | Business Objects, Data Model Configuration, Persistent Properties, LOV Configuration, Property Configuration, Deployment Concepts (Hot & Cold Deployment) |
+| 💻 **Active Workspace** | AWC Foundation, UI & Data Presentation, XRT (XML Rendering Templates), Commands, Panels |
+| 🚀 **Deployment** | Active Workspace Deployment, BMIDE Template Deployment, Configuration Rollout, Troubleshooting (logs & diagnostics), Service Restart Concepts |
+| ⚙️ **Customization** | ITK (basics), Server Extensions (DLL / shared libraries): Method Extensions & Handler Extensions, SOA (Service-Oriented Architecture), AWC Customization |
 
-**Progress:** `55%` — moving from foundational concepts into hands-on data model customization and client-side configuration.
+**Progress:** `80%` — moving from foundational concepts into hands-on data model customization, client-side configuration, and server-side customization.
 
 ---
 
