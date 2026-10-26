@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `> Full-Stack Developer` · `MERN & Next.js` · `Building at Scale` · `Siemens Teamcenter PLM Specialist`
+### `> Siemens Teamcenter PLM Specialist` . `Full-Stack Developer` · `MERN & Next.js` · `Building at Scale`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Turning+ideas+into+scalable+web+applications;MERN+Stack+%7C+Next.js+%7C+System+Design;Open+to+Internships+%26+Collaborations;Currently+exploring+Siemens+Teamcenter+PLM+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 
