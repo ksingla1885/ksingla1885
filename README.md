@@ -293,7 +293,7 @@ status:     Open to internships, freelance & collaborations ✅
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ketan-kumar1885-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-kumar-521249279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ketan--kumar--521249279-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-kumar-521249279/)
 [![GitHub](https://img.shields.io/badge/GitHub-ksingla1885-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksingla1885)
 
 [![Email](https://img.shields.io/badge/Email_(Primary)-ketansingla7988@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketansingla7988@gmail.com)
